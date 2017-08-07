@@ -28,8 +28,8 @@
     <img src="https://travis-ci.org/ythecombinator/GammaFn.svg?branch=master" alt="Build Status">
 </a>
 
-<a href="https://codebeat.co/projects/github-com-ythecombinator-GammaFn-master">
-    <img alt="codebeat badge" src="https://codebeat.co/badges/96b2f8d3-01a8-477b-83b2-897189df5852" />
+<a href="https://codebeat.co/projects/github-com-ythecombinator-gammafn-master">
+    <img alt="codebeat badge" src="https://codebeat.co/badges/8b555148-33c0-42bc-9ed1-96ddae707ad9" />
 </a>
 
 <a href="LICENSE.md">
@@ -49,7 +49,7 @@
 
 - [Installation](#-installation)
 - [Getting Started](#-getting-started)
-- [License](#-license)
+- [License](#️-license)
 
 <!-- tocstop -->
 
