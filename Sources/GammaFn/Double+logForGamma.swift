@@ -10,14 +10,14 @@ extension Double {
             print(error.localizedDescription)
         }
         
-        var x = Array.pLn[0];
+        var x = Array.pLn[0]
         
         for i in (0..<Array.pLn.count - 1).reversed() {
             let index = Double(i)
-            x += Array.pLn[i] / (value + index);
+            x += Array.pLn[i] / (value + index)
         }
         
-        let t = value + Double.gLn + 0.5;
+        let t = value + Double.gLn + 0.5
         
         return
             0.5
